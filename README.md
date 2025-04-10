@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
 * https://www.youtube.com/@CollegeOfScripting  
 * https://www.x.com/CollegeOfScript
 
+
+[CATopalian JavaScript Note Taker](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Note_Taker/CATopalian_JavaScript_Note_Taker.html)
+
 [CATopalian JavaScript Grid Interface](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Grid_Interface/CATopalian_JavaScript_Grid_Interface.html)
 
 [CATopalian JavaScript Truth Detection](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Truth_Detection/CATopalian_JavaScript_Truth_Detection.html)
