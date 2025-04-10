@@ -17,6 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript Grid Interface](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Grid_Interface/CATopalian_JavaScript_Grid_Interface.html)
 
+[CATopalian JavaScript Truth Detection](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Truth_Detection/CATopalian_JavaScript_Truth_Detection.html)
+
 [CATopalian JavaScript Earthquake Data Center](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earthquake_Data_Center/CATopalian_JavaScript_Earthquake_Data_Center.html)
 
 [CATopalian JavaScript Video Investigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
