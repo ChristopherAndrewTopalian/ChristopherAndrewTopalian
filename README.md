@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
 * https://www.youtube.com/@CollegeOfScripting  
 * https://www.x.com/CollegeOfScript
 
+[CATopalian JavaScript Video Investigator]
+(https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
 
 [CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
 
