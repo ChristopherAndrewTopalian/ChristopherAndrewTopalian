@@ -95,8 +95,6 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript Video Investigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
 
-[CATopalian JavaScript Video Investigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
-
 [CATopalian JavaScript World Clock](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_World_Clock/CATopalian_JavaScript_World_Clock.html)
 
 # Happy Scripting :-)
