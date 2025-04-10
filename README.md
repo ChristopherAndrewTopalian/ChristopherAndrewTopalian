@@ -35,6 +35,8 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript Earth](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth/CATopalian_JavaScript_Earth.html)
 
+[CATopalian JavaScript Earth Canvas](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth_Canvas/CATopalian_JavaScript_Earth_Canvas.html)
+
 [CATopalian JavaScript Earthquake Data Center](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earthquake_Data_Center/CATopalian_JavaScript_Earthquake_Data_Center.html)
 
 [CATopalian JavaScript Filter Functions](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Filter_Functions/CATopalian_JavaScript_Filter_Functions.html)
