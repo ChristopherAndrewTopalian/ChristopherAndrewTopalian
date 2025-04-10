@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
 * https://www.youtube.com/@CollegeOfScripting  
 * https://www.x.com/CollegeOfScript
 
+[CATopalian JavaScript Code Editor]
+(https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Code_Editor/CATopalian_JavaScript_Code_Editor.html)
+
 [CATopalian JavaScript Video Investigator]
 (https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
 
