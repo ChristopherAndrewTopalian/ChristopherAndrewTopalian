@@ -7,8 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[CATopalian_JavaScript_Clock_with_Moving_Seconds](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Clock_with_Moving_Seconds/CATopalian_JavaScript_Clock_with_Moving_Seconds.html) 
-
 [CATopalian Game Engine Data Navigator](https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigator/CATopalian_Game_Engine_Data_Navigator.html)
 
 [CATopalian Game Engine](https://christopherandrewtopalian.github.io/CATopalian_Game_Engine/CATopalian_Game_Engine.html) 
