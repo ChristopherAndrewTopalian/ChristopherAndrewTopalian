@@ -8,13 +8,6 @@ You can click the Preview link to take a look at your changes.
 # College of Scripting Music & Science
 ### Send Donations to [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
-* https://github.com/ChristopherTopalian  
-* https://github.com/ChristopherAndrewTopalian  
-* https://sites.google.com/view/CollegeOfScripting  
-* https://www.youtube.com/ScriptingCollege  
-* https://www.youtube.com/@CollegeOfScripting  
-* https://www.x.com/CollegeOfScript
-
 ---
 
 [CATopalian_JavaScript_Clock_with_Moving_Seconds](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Clock_with_Moving_Seconds/CATopalian_JavaScript_Clock_with_Moving_Seconds.html) 
@@ -107,5 +100,14 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript World Clock](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_World_Clock/CATopalian_JavaScript_World_Clock.html)
 
-
 # Happy Scripting :-)
+
+---
+
+* https://github.com/ChristopherTopalian  
+* https://github.com/ChristopherAndrewTopalian  
+* https://sites.google.com/view/CollegeOfScripting  
+* https://www.youtube.com/ScriptingCollege  
+* https://www.youtube.com/@CollegeOfScripting  
+* https://www.x.com/CollegeOfScript
+
