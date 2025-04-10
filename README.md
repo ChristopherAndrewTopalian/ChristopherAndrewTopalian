@@ -15,10 +15,6 @@ You can click the Preview link to take a look at your changes.
 * https://www.youtube.com/@CollegeOfScripting  
 * https://www.x.com/CollegeOfScript
 
-[CATopalian_JavaScript_Clock_with_Moving_Seconds](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Clock_with_Moving_Seconds/CATopalian_JavaScript_Clock_with_Moving_Seconds.html)
-
-[CATopalian JavaScript Code Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Code_Editor/CATopalian_JavaScript_Code_Editor.html)
-
 [CATopalian JavaScript Video Investigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
 
 [CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
