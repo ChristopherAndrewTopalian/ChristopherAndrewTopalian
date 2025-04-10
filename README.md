@@ -1,5 +1,3 @@
-### Dedicated to God the Father
-
 <!---
 ChristopherAndrewTopalian/ChristopherAndrewTopalian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -100,6 +98,8 @@ You can click the Preview link to take a look at your changes.
 # Happy Scripting :-)
 
 ---
+
+### Dedicated to God the Father
 
 # College of Scripting Music & Science
 #### Send Donations to [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch) 
