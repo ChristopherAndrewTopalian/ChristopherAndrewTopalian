@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # College of Scripting Music & Science
-#### Send Donations to [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
 ---
 
@@ -103,6 +102,9 @@ You can click the Preview link to take a look at your changes.
 # Happy Scripting :-)
 
 ---
+
+# College of Scripting Music & Science
+#### Send Donations to [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch) 
 
 * https://github.com/ChristopherTopalian  
 * https://github.com/ChristopherAndrewTopalian  
