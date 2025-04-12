@@ -33,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript Comic Book Creator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Comic_Book_Creator/CATopalian_JavaScript_Comic_Book_Creator.html)
 
+[CATopalian JavaScript Data Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Data_Navigator/CATopalian_JavaScript_Data_Navigator.html)
+
 [CATopalian JavaScript Earth](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth/CATopalian_JavaScript_Earth.html)
 
 [CATopalian JavaScript Earth Canvas](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth_Canvas/CATopalian_JavaScript_Earth_Canvas.html)
