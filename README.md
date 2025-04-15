@@ -91,6 +91,9 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript True AI](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI/CATopalian_JavaScript_True_AI.html)
 
+[CATopalian JavaScript True AI 16 Gates Number Recognition
+](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition.html)
+
 [CATopalian JavaScript True AI 16 Gates Number Recognition 3x3
 ](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition_3x3/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition_3x3.html)
 
