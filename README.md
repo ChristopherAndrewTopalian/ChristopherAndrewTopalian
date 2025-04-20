@@ -105,6 +105,10 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript World Clock](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_World_Clock/CATopalian_JavaScript_World_Clock.html)
 
+---
+
+[CATopalian JavaScript Boolean_Algebra](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Boolean_Algebra)  
+
 # Happy Scripting :-)
 
 ---
