@@ -123,6 +123,8 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian_JavaScript_NW.js_Journal](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Journal)
 
+[CATopalian JavaScript NW.js Learning Center](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Learning_Center)
+
 # Happy Scripting :-)
 
 ---
