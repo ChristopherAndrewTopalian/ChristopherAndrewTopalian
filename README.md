@@ -62,6 +62,8 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript Journal](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Journal/CATopalian_JavaScript_Journal.html)
 
+[CATopalian_JavaScript_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library)
+
 [CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
 
 [CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
