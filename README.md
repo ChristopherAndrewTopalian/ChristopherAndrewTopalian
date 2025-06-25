@@ -68,6 +68,9 @@ You can click the Preview link to take a look at your changes.
 
 [CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
 
+[CATopalian JavaScript Motion Detection
+](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Detection/CATopalian_JavaScript_Motion_Detection.html)
+
 [CATopalian JavaScript Motion Tracking](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Tracking/CATopalian_JavaScript_Motion_Tracking.html)
 
 [CATopalian JavaScript Note Taker](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Note_Taker/CATopalian_JavaScript_Note_Taker.html)
