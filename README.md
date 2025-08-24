@@ -7,18 +7,15 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-JavaScript Computer Science
-https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science
+[JavaScript Computer Science](https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science)
 
 ---
 
-CATopalian_JavaScript_Character_Studio
-https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Studio/CATopalian_JavaScript_Character_Studio.html
+[CATopalian_JavaScript_Character_Studio](
+https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Studio/CATopalian_JavaScript_Character_Studio.html)
 
----
-
-CATopalian Game Engine Data Navigator
-https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigator/CATopalian_Game_Engine_Data_Navigator.html
+[CATopalian Game Engine Data Navigator](
+https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigator/CATopalian_Game_Engine_Data_Navigator.html)
 
 [CATopalian Game Engine](https://christopherandrewtopalian.github.io/CATopalian_Game_Engine/CATopalian_Game_Engine.html) 
 
