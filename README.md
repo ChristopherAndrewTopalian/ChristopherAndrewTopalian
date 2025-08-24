@@ -7,8 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[JavaScript Computer Science](https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science)  
+JavaScript Computer Science
 https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science
+
 
 ---
 
