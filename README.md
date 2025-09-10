@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[CATopalian_JavaScript_Art_Studio](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Saving_Feral_Felines/CATopalian_JavaScript_Saving_Feral_Felines.html](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Art_Studio/CATopalian_JavaScript_Art_Studio.html
-)
+[CATopalian_JavaScript_Art_Studio](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Art_Studio/CATopalian_JavaScript_Art_Studio.html)
 
 [CATopalian JavaScript Saving Feral Felines](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Saving_Feral_Felines/CATopalian_JavaScript_Saving_Feral_Felines.html)
 
