@@ -144,6 +144,14 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 [CATopalian JavaScript NW.js Learning Center](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Learning_Center)
 
+---
+
+[CATopalian_Python_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library)
+
+[CATopalian_Python_Computer_Science](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Computer_Science)
+
+---
+
 # Happy Scripting :-)
 
 ---
