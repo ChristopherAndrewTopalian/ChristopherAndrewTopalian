@@ -157,6 +157,8 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 [CATopalian_Python_Computer_Science](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Computer_Science)
 
+[CATopalian Python PySide6 Counter](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_PySide6_Counter)
+
 ---
 
 # Happy Scripting :-)
