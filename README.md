@@ -140,6 +140,8 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 [CATopalian JavaScript Boolean_Algebra](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Boolean_Algebra)  
 
+----
+
 ## NW.js
 [CATopalian_JavaScript_NW.js
 ](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js)
@@ -157,11 +159,25 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 ---
 
+# Node.js
+
+[CATopalian_Node.js_Computer_Science](https://github.com/ChristopherAndrewTopalian/CATopalian_Node.js_Computer_Science)
+
+[CATopalian_Node.js_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Node.js_Library)
+
+---
+
 [CATopalian_Python_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library)
 
 [CATopalian_Python_Computer_Science](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Computer_Science)
 
 [CATopalian Python PySide6 Counter](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_PySide6_Counter)
+
+---
+
+# Electronics
+
+[CATopalian Thin Wiretronics](https://github.com/ChristopherAndrewTopalian/CATopalian_Thin_Wiretronics)
 
 ---
 
