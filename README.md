@@ -10,6 +10,8 @@ Christopher Andrew Topalian
 
 [College of Scripting](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting/CATopalian_JavaScript_College_of_Scripting.html)
 
+[College of Scripting Universe](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting_Universe/CATopalian_JavaScript_College_of_Scripting_Universe.html)
+
 [JavaScript Computer Science](https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science)
 
 ---
