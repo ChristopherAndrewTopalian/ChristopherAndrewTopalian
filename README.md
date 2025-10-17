@@ -8,11 +8,11 @@ Christopher Andrew Topalian
 
 ---
 
-[CATopalian JavaScript BabylonJS College of Scripting](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting.html)
+[CATopalian JavaScript BabylonJS College of Scripting - 3D](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting/CATopalian_JavaScript_BabylonJS_College_of_Scripting.html)
 
-[College of Scripting](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting/CATopalian_JavaScript_College_of_Scripting.html)
+[College of Scripting - Scroll Version](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting/CATopalian_JavaScript_College_of_Scripting.html)
 
-[College of Scripting Universe](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting_Universe/CATopalian_JavaScript_College_of_Scripting_Universe.html)
+[College of Scripting Universe - Gallery Version](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting_Universe/CATopalian_JavaScript_College_of_Scripting_Universe.html)
 
 [JavaScript Computer Science](https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science)
 
