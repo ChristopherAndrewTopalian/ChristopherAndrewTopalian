@@ -14,7 +14,7 @@ Christopher Andrew Topalian
 
 [College of Scripting Universe - Gallery Version](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting_Universe/CATopalian_JavaScript_College_of_Scripting_Universe.html)
 
-[CATopalian JavaScript BabylonJS Town of Auburn MA.html](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_BabylonJS_Town_of_Auburn_MA/CATopalian_JavaScript_BabylonJS_Town_of_Auburn_MA/CATopalian_JavaScript_BabylonJS_Town_of_Auburn_MA.html)
+[CATopalian JavaScript BabylonJS Town of Auburn MA](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_BabylonJS_Town_of_Auburn_MA/CATopalian_JavaScript_BabylonJS_Town_of_Auburn_MA/CATopalian_JavaScript_BabylonJS_Town_of_Auburn_MA.html)
 
 [JavaScript Computer Science](https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science)
 
