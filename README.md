@@ -20,6 +20,8 @@ Christopher Andrew Topalian
 
 ---
 
+[CATopalian_JavaScript_Cost_Calculator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cost_Calculator/CATopalian_JavaScript_Cost_Calculator.html)
+
 [CATopalian JavaScript Calendar](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Calendar/CATopalian_JavaScript_Calendar.html)
 
 [CATopalian_JavaScript_Book_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Book_Navigator/CATopalian_JavaScript_Book_Navigator.html)
