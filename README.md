@@ -24,6 +24,8 @@ Christopher Andrew Topalian
 
 [CATopalian JavaScript Calendar](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Calendar/CATopalian_JavaScript_Calendar.html)
 
+[CATopalian_JavaScript_True_AI_Logic_Gates](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_Logic_Gates/CATopalian_JavaScript_True_AI_Logic_Gates.html)
+
 [CATopalian_JavaScript_Book_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Book_Navigator/CATopalian_JavaScript_Book_Navigator.html)
 
 [CATopalian JavaScript Text Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Navigator/CATopalian_JavaScript_Text_Navigator.html)
