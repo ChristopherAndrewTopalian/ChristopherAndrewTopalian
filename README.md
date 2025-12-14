@@ -28,7 +28,7 @@ Christopher Andrew Topalian
 
 [CATopalian_JavaScript_True_AI_Creator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_Creator/CATopalian_JavaScript_True_AI_Creator.html)
 
-[CATopalian_JavaScript_True_AI_Creation](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_Creator/CATopalian_JavaScript_True_AI_Creation.html)
+[CATopalian_JavaScript_True_AI_Creation](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_Creation/CATopalian_JavaScript_True_AI_Creation.html)
 
 [CATopalian_JavaScript_Book_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Book_Navigator/CATopalian_JavaScript_Book_Navigator.html)
 
