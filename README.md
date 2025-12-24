@@ -22,6 +22,8 @@ Christopher Andrew Topalian
 
 [CATopalian_JavaScript_Cost_Calculator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cost_Calculator/CATopalian_JavaScript_Cost_Calculator.html)
 
+[CATopalian_JavaScript_Address_Book.html](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Address_Book/CATopalian_JavaScript_Address_Book.html)
+
 [CATopalian JavaScript Calendar](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Calendar/CATopalian_JavaScript_Calendar.html)
 
 [CATopalian_JavaScript_True_AI_Logic_Gates](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_Logic_Gates/CATopalian_JavaScript_True_AI_Logic_Gates.html)
