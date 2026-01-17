@@ -20,16 +20,30 @@ Christopher Andrew Topalian
 
 ---
 
+# GAME DESIGN
+
 [CATopalian Game Engine](https://christopherandrewtopalian.github.io/CATopalian_Game_Engine/CATopalian_Game_Engine.html)
 
 [CATopalian Game Engine Data Navigator](
 https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigator/CATopalian_Game_Engine_Data_Navigator.html) 
 
+[CATopalian JavaScript Comic Book Creator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Comic_Book_Creator/CATopalian_JavaScript_Comic_Book_Creator.html)
+
+[CATopalian JavaScript Object Oriented Game Design](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Game_Design/CATopalian_JavaScript_Object_Oriented_Game_Design.html)
+
+---
+
+# CODE EDITORS
+
 [CATopalian_HTML_JavaScript_Code_Editor](https://christopherandrewtopalian.github.io/CATopalian_HTML_JavaScript_Code_Editor/CATopalian_HTML_JavaScript_Code_Editor.html)
 
 [CATopalian HTML JavaScript Editor](https://christopherandrewtopalian.github.io/CATopalian_HTML_JavaScript_Editor/CATopalian_HTML_JavaScript_Editor.html)
 
+[CATopalian JavaScript Markdown to HTML Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Markdown_to_HTML_Editor/CATopalian_JavaScript_Markdown_to_HTML_Editor.html)
+
 [CATopalian JavaScript 3D Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_3D_Editor/CATopalian_JavaScript_3D_Editor.html)
+
+---
 
 [CATopalian JavaScript Accordion Interface](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Accordion_Interface/CATopalian_JavaScript_Accordion_Interface.html)
 
@@ -52,8 +66,6 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 [CATopalian JavaScript Text Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Navigator/CATopalian_JavaScript_Text_Navigator.html)
 
 [CATopalian_JavaScript_File_Reader](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_File_Reader/CATopalian_JavaScript_File_Reader.html)
-
-[CATopalian JavaScript Markdown to HTML Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Markdown_to_HTML_Editor/CATopalian_JavaScript_Markdown_to_HTML_Editor.html)
 
 [CATopalian JavaScript File Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_File_Navigator/CATopalian_JavaScript_File_Navigator.html)
 
@@ -78,8 +90,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian JavaScript Clock](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Clock/CATopalian_JavaScript_Clock.html)
 
 [CATopalian JavaScript Code Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Code_Editor/CATopalian_JavaScript_Code_Editor.html)
-
-[CATopalian JavaScript Comic Book Creator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Comic_Book_Creator/CATopalian_JavaScript_Comic_Book_Creator.html)
 
 [CATopalian JavaScript Data Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Data_Navigator/CATopalian_JavaScript_Data_Navigator.html)
 
@@ -121,8 +131,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian JavaScript Note Taker](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Note_Taker/CATopalian_JavaScript_Note_Taker.html)
 
 [CATopalian JavaScript Object Oriented Design](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Design/CATopalian_JavaScript_Object_Oriented_Design.html)
-
-[CATopalian JavaScript Object Oriented Game Design](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Object_Oriented_Game_Design/CATopalian_JavaScript_Object_Oriented_Game_Design.html)
 
 [CATopalian JavaScript Password Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Password_Generator/CATopalian_JavaScript_Password_Generator.html)
 
