@@ -116,6 +116,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 # VIDEO
 
+[CATopalian_JavaScript_Video_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Navigator/CATopalian_JavaScript_Video_Navigator.html)
+
 [CATopalian_JavaScript_Video_Gallery](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Gallery/CATopalian_JavaScript_Video_Gallery.html)
 
 [CATopalian JavaScript Video Investigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
