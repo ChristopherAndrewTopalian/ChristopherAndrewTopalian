@@ -166,6 +166,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
 
+[CATopalian JavaScript Identity Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Identity_Generator/CATopalian_JavaScript_Identity_Generator.html)
+
 ---
 
 # CALCULATION
@@ -209,8 +211,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian JavaScript Frames Per Second](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Frames_Per_Second/CATopalian_JavaScript_Frames_Per_Second.html)
 
 [CATopalian JavaScript Graph](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graph/CATopalian_JavaScript_Graph.html)
-
-[CATopalian JavaScript Identity Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Identity_Generator/CATopalian_JavaScript_Identity_Generator.html)
 
 [CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
 
