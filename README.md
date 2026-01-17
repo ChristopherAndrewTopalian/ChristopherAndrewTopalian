@@ -168,12 +168,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 ---
 
-# GENETICS
-
-[CATopalian_JavaScript_Genetics_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Genetics_Navigator/CATopalian_JavaScript_Genetics_Navigator.html)
-
----
-
 # CALCULATION
 
 [CATopalian_JavaScript_Cost_Calculator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cost_Calculator/CATopalian_JavaScript_Cost_Calculator.html)
@@ -211,9 +205,17 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 # SCIENCE
 
+## SUN
+
 [CATopalian JavaScript Sun Report](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Sun_Report/CATopalian_JavaScript_Sun_Report.html)
 
+## EARTH
+
 [CATopalian JavaScript Earthquake Data Center](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earthquake_Data_Center/CATopalian_JavaScript_Earthquake_Data_Center.html) 
+
+## GENETICS
+
+[CATopalian_JavaScript_Genetics_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Genetics_Navigator/CATopalian_JavaScript_Genetics_Navigator.html)
 
 ---
 
