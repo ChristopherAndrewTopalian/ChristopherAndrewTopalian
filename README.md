@@ -12,8 +12,6 @@ Christopher Andrew Topalian
 
 [College of Scripting Universe - Gallery Version](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting_Universe/CATopalian_JavaScript_College_of_Scripting_Universe.html)
 
-[JavaScript Computer Science](https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science)
-
 ---
 
 # GAME DESIGN
@@ -112,6 +110,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian JavaScript Earth Canvas](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth_Canvas/CATopalian_JavaScript_Earth_Canvas.html)
 
+[CATopalian JavaScript Location_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Location_Navigator/CATopalian_JavaScript_Location_Navigator.html)
+
 ---
 
 # VIDEO
@@ -190,8 +190,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian JavaScript Identity Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Identity_Generator/CATopalian_JavaScript_Identity_Generator.html)
 
-[CATopalian_JavaScript_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library)
-
 [CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
 
 [CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
@@ -212,13 +210,21 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian JavaScript Sun Report](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Sun_Report/CATopalian_JavaScript_Sun_Report.html)
 
-[CATopalian JavaScript Earthquake Data Center](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earthquake_Data_Center/CATopalian_JavaScript_Earthquake_Data_Center.html)
+[CATopalian JavaScript Earthquake Data Center](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earthquake_Data_Center/CATopalian_JavaScript_Earthquake_Data_Center.html) 
 
 ---
 
-[CATopalian JavaScript Boolean_Algebra](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Boolean_Algebra)  
+# JAVASCRIPT FOUNDATIONAL LEARNING
 
-----
+[CATopalian_JavaScript_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library)
+
+[JavaScript Computer Science](https://github.com/ChristopherAndrewTopalian/JavaScript_Computer_Science)
+
+---
+
+[CATopalian JavaScript Boolean_Algebra](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Boolean_Algebra) 
+
+---
 
 ## NW.js
 [CATopalian_JavaScript_NW.js
