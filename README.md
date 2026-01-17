@@ -178,21 +178,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 ---
 
-[CATopalian JavaScript Background Check Navigator
-](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Background_Check_Navigator/CATopalian_JavaScript_Background_Check_Navigator.html)
-
-[CATopalian JavaScript Filter Functions](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Filter_Functions/CATopalian_JavaScript_Filter_Functions.html)
-
-[CATopalian JavaScript Frames Per Second](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Frames_Per_Second/CATopalian_JavaScript_Frames_Per_Second.html)
-
-[CATopalian JavaScript Graph](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graph/CATopalian_JavaScript_Graph.html)
-
-[CATopalian JavaScript Identity Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Identity_Generator/CATopalian_JavaScript_Identity_Generator.html)
-
-[CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
-
----
-
 # INTERFACE
 
 [CATopalian JavaScript Pie Menu](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Pie_Menu/CATopalian_JavaScript_Pie_Menu.html)
@@ -216,6 +201,21 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 ## GENETICS
 
 [CATopalian_JavaScript_Genetics_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Genetics_Navigator/CATopalian_JavaScript_Genetics_Navigator.html)
+
+---
+
+[CATopalian JavaScript Filter Functions](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Filter_Functions/CATopalian_JavaScript_Filter_Functions.html)
+
+[CATopalian JavaScript Frames Per Second](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Frames_Per_Second/CATopalian_JavaScript_Frames_Per_Second.html)
+
+[CATopalian JavaScript Graph](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graph/CATopalian_JavaScript_Graph.html)
+
+[CATopalian JavaScript Identity Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Identity_Generator/CATopalian_JavaScript_Identity_Generator.html)
+
+[CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
+
+[CATopalian JavaScript Background Check Navigator
+](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Background_Check_Navigator/CATopalian_JavaScript_Background_Check_Navigator.html)
 
 ---
 
