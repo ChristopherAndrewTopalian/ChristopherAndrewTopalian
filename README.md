@@ -41,7 +41,9 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 ---
 
-# CODE EDITORS
+# EDITORS
+
+[CATopalian JavaScript Code Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Code_Editor/CATopalian_JavaScript_Code_Editor.html)
 
 [CATopalian_HTML_JavaScript_Code_Editor](https://christopherandrewtopalian.github.io/CATopalian_HTML_JavaScript_Code_Editor/CATopalian_HTML_JavaScript_Code_Editor.html)
 
@@ -55,12 +57,6 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 ---
 
-[CATopalian JavaScript Accordion Interface](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Accordion_Interface/CATopalian_JavaScript_Accordion_Interface.html)
-
-[CATopalian_JavaScript_Cost_Calculator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cost_Calculator/CATopalian_JavaScript_Cost_Calculator.html)
-
----
-
 # TIME/DATE
 
 [CATopalian JavaScript World Clock](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_World_Clock/CATopalian_JavaScript_World_Clock.html)
@@ -70,10 +66,6 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 [CATopalian JavaScript Clock with Moving Seconds](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Clock_with_Moving_Seconds/CATopalian_JavaScript_Clock_with_Moving_Seconds.html)
 
 [CATopalian JavaScript Clock](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Clock/CATopalian_JavaScript_Clock.html)
-
----
-
-[CATopalian_JavaScript_Address_Book](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Address_Book/CATopalian_JavaScript_Address_Book.html)
 
 ---
 
@@ -99,9 +91,21 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 ---
 
+[CATopalian_JavaScript_Address_Book](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Address_Book/CATopalian_JavaScript_Address_Book.html)
+
+[CATopalian JavaScript Graphics Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graphics_Editor/CATopalian_JavaScript_Graphics_Editor.html)
+
+[CATopalian JavaScript Accordion Interface](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Accordion_Interface/CATopalian_JavaScript_Accordion_Interface.html)
+
+[CATopalian_JavaScript_Cost_Calculator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cost_Calculator/CATopalian_JavaScript_Cost_Calculator.html)
+
 [CATopalian_JavaScript_Book_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Book_Navigator/CATopalian_JavaScript_Book_Navigator.html)
 
 [CATopalian JavaScript Text Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Navigator/CATopalian_JavaScript_Text_Navigator.html)
+
+---
+
+# FILE NAVIGATION
 
 [CATopalian_JavaScript_File_Reader](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_File_Reader/CATopalian_JavaScript_File_Reader.html)
 
@@ -109,10 +113,10 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 [CATopalian_JavaScript_Art_Studio](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Art_Studio/CATopalian_JavaScript_Art_Studio.html)
 
-[CATopalian JavaScript Saving Feral Felines](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Saving_Feral_Felines/CATopalian_JavaScript_Saving_Feral_Felines.html)
-
 [CATopalian_JavaScript_Character_Studio](
 https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Studio/CATopalian_JavaScript_Character_Studio.html)  
+
+---
 
 [CATopalian JavaScript Background Check Navigator
 ](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Background_Check_Navigator/CATopalian_JavaScript_Background_Check_Navigator.html)
@@ -123,15 +127,19 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian JavaScript Cipher Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cipher_Generator/CATopalian_JavaScript_Cipher_Generator.html)
 
-[CATopalian JavaScript Code Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Code_Editor/CATopalian_JavaScript_Code_Editor.html)
-
 [CATopalian JavaScript Data Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Data_Navigator/CATopalian_JavaScript_Data_Navigator.html)
+
+---
+
+# EARTH
 
 [CATopalian JavaScript Earth](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth/CATopalian_JavaScript_Earth.html)
 
 [CATopalian JavaScript Earth Canvas](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earth_Canvas/CATopalian_JavaScript_Earth_Canvas.html)
 
 [CATopalian JavaScript Earthquake Data Center](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Earthquake_Data_Center/CATopalian_JavaScript_Earthquake_Data_Center.html)
+
+---
 
 [CATopalian JavaScript Filter Functions](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Filter_Functions/CATopalian_JavaScript_Filter_Functions.html)
 
@@ -140,8 +148,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian_JavaScript_Genetics_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Genetics_Navigator/CATopalian_JavaScript_Genetics_Navigator.html)
 
 [CATopalian JavaScript Graph](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graph/CATopalian_JavaScript_Graph.html)
-
-[CATopalian JavaScript Graphics Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graphics_Editor/CATopalian_JavaScript_Graphics_Editor.html)
 
 [CATopalian JavaScript Grid Interface](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Grid_Interface/CATopalian_JavaScript_Grid_Interface.html)
 
@@ -154,11 +160,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
 
 [CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
-
-[CATopalian JavaScript Motion Detection
-](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Detection/CATopalian_JavaScript_Motion_Detection.html)
-
-[CATopalian JavaScript Motion Tracking](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Tracking/CATopalian_JavaScript_Motion_Tracking.html)
 
 [CATopalian JavaScript Note Taker](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Note_Taker/CATopalian_JavaScript_Note_Taker.html)
 
@@ -178,9 +179,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian JavaScript Text Investigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Text_Investigator/CATopalian_JavaScript_Text_Investigator.html)
 
-
-[CATopalian JavaScript Truth Detection](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Truth_Detection/CATopalian_JavaScript_Truth_Detection.html)
-
 ---
 
 # VIDEO
@@ -188,6 +186,15 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian_JavaScript_Video_Gallery](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Gallery/CATopalian_JavaScript_Video_Gallery.html)
 
 [CATopalian JavaScript Video Investigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Video_Investigator/CATopalian_JavaScript_Video_Investigator.html)
+
+[CATopalian JavaScript Motion Detection
+](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Detection/CATopalian_JavaScript_Motion_Detection.html)
+
+[CATopalian JavaScript Motion Tracking](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Tracking/CATopalian_JavaScript_Motion_Tracking.html)
+
+[CATopalian JavaScript Truth Detection](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Truth_Detection/CATopalian_JavaScript_Truth_Detection.html)
+
+[CATopalian JavaScript Saving Feral Felines](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Saving_Feral_Felines/CATopalian_JavaScript_Saving_Feral_Felines.html)
 
 ---
 
