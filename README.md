@@ -219,6 +219,12 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 ---
 
+# MOBILE DEVICES
+
+[CATopalian_JavaScript_Motion_Sensor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Sensor/CATopalian_JavaScript_Motion_Sensor.html)
+
+---
+
 # JAVASCRIPT FOUNDATIONAL LEARNING
 
 [CATopalian_JavaScript_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library)
