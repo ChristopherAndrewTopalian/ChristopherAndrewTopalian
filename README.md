@@ -138,6 +138,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 # TEXT
 
+[CATopalian JavaScript Teacher](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Teacher/CATopalian_JavaScript_Teacher.html)
+
 [CATopalian_JavaScript_Address_Book](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Address_Book/CATopalian_JavaScript_Address_Book.html)
 
 [CATopalian_JavaScript_Book_Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Book_Navigator/CATopalian_JavaScript_Book_Navigator.html)
@@ -160,6 +162,10 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian JavaScript Data Navigator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Data_Navigator/CATopalian_JavaScript_Data_Navigator.html)
 
+[CATopalian JavaScript Cipher Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cipher_Generator/CATopalian_JavaScript_Cipher_Generator.html)
+
+[CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
+
 ---
 
 # GENETICS
@@ -178,12 +184,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 ---
 
-[CATopalian JavaScript Teacher](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Teacher/CATopalian_JavaScript_Teacher.html)
-
 [CATopalian JavaScript Background Check Navigator
 ](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Background_Check_Navigator/CATopalian_JavaScript_Background_Check_Navigator.html)
-
-[CATopalian JavaScript Cipher Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Cipher_Generator/CATopalian_JavaScript_Cipher_Generator.html)
 
 [CATopalian JavaScript Filter Functions](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Filter_Functions/CATopalian_JavaScript_Filter_Functions.html)
 
@@ -192,8 +194,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian JavaScript Graph](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Graph/CATopalian_JavaScript_Graph.html)
 
 [CATopalian JavaScript Identity Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Identity_Generator/CATopalian_JavaScript_Identity_Generator.html)
-
-[CATopalian_JavaScript_List_Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_List_Generator/CATopalian_JavaScript_List_Generator.html)
 
 [CATopalian JavaScript Math Generator](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Math_Generator/CATopalian_JavaScript_Math_Generator.html)
 
@@ -255,6 +255,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian_Node.js_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Node.js_Library)
 
 ---
+
+## PY
 
 [CATopalian_Python_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library)
 
