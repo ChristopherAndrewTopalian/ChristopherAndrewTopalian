@@ -92,6 +92,10 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 [CATopalian JavaScript True AI 16 Gates Number Recognition 3x3
 ](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition_3x3/CATopalian_JavaScript_True_AI_16_Gates_Number_Recognition_3x3.html)
 
+[CATopalian_TRUE_AI](https://github.com/ChristopherAndrewTopalian/CATopalian_TRUE_AI)
+
+[CATopalian_JavaScript_True_AI_Hypercube](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_True_AI_Hypercube)
+
 ---
 
 # FILE NAVIGATION
