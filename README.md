@@ -231,6 +231,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian_JavaScript_Motion_Sensor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Motion_Sensor/CATopalian_JavaScript_Motion_Sensor.html)
 
+[CATopalian_JavaScript_Barometer_Sensor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Barometer_Sensor/CATopalian_JavaScript_Barometer_Sensor.html)
+
 ---
 
 # JAVASCRIPT FOUNDATIONAL LEARNING
