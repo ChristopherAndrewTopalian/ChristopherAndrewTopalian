@@ -102,7 +102,7 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 # FILE NAVIGATION
 
-[CATopalian_JavaScript_Texture_Changer.html](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Texture_Changer/CATopalian_JavaScript_Texture_Changer.html)
+[CATopalian_JavaScript_Texture_Changer](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Texture_Changer/CATopalian_JavaScript_Texture_Changer.html)
 
 [CATopalian_JavaScript_File_Reader](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_File_Reader/CATopalian_JavaScript_File_Reader.html)
 
