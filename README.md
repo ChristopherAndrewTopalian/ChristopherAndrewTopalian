@@ -44,6 +44,12 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 ---
 
+# Class - Component Based Architecture
+
+[CATopalian JavaScript Component Based Architecture](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Component_Based_Architecture/CATopalian_JavaScript_Component_Based_Architecture.html)
+
+---
+
 # EDITORS
 
 [CATopalian JavaScript Code Colorer](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Universal_Code_Colorer/CATopalian_JavaScript_Universal_Code_Translator.html)
