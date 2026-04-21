@@ -46,6 +46,8 @@ https://christopherandrewtopalian.github.io/CATopalian_Game_Engine_Data_Navigato
 
 # EDITORS
 
+[CATopalian JavaScript Code Colorer](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Universal_Code_Colorer/CATopalian_JavaScript_Universal_Code_Translator.html)
+
 [CATopalian JavaScript Code Editor](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Code_Editor/CATopalian_JavaScript_Code_Editor.html)
 
 [CATopalian_HTML_JavaScript_Code_Editor](https://christopherandrewtopalian.github.io/CATopalian_HTML_JavaScript_Code_Editor/CATopalian_HTML_JavaScript_Code_Editor.html)
