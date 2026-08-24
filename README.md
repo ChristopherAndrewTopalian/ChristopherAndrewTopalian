@@ -19,6 +19,8 @@ Christopher Andrew Topalian
 
 [CATopalian Python Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library)
 
+[CATopalian Python Computer Science](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Computer_Science)
+
 [CATopalian PY PySide6 Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_PySide6_Tutorials)
 
 [CATopalian PY CustomTkinter Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_CustomTkinter_Tutorials)
