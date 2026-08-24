@@ -10,6 +10,13 @@ Christopher Andrew Topalian
 
 [LATEST REPOSITORIES](https://github.com/ChristopherAndrewTopalian?tab=repositories)  
 
+## PYTHON
+[CATopalian PY sqlite3 Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_sqlite3_Tutorials)
+
+[CATopalian PY Pandas Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_Pandas_Tutorials)
+
+---
+
 [CATopalian JavaScript](https://christopherandrewtopalian.github.io/CATopalian_JavaScript/CATopalian_JavaScript.html)  
 
 [College of Scripting - Scroll Version](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting/CATopalian_JavaScript_College_of_Scripting.html)
