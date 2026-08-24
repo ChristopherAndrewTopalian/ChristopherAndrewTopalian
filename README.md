@@ -31,6 +31,8 @@ Christopher Andrew Topalian
 
 [CATopalian PY Blender Game Engine Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_Blender_Game_Engine_Tutorials)
 
+[CATopalian Python Blender Auburn MA 3D Simulator](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Blender_Auburn_MA_3D_Simulator)
+
 ---
 
 [CATopalian JavaScript](https://christopherandrewtopalian.github.io/CATopalian_JavaScript/CATopalian_JavaScript.html)  
