@@ -318,6 +318,8 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian NWJS True Intelligence](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_True_Intelligence)
 
+[CATopalian NWJS TRUE AI](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_TRUE_AI)
+
 [CATopalian NWJS TensorFlow Matrix Template](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_TensorFlow_Matrix_Template)
 
 [CATopalian NWJS TensorFlow JS Image Classifier](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_TensorFlow_JS_Image_Classifier)
