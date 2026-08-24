@@ -21,6 +21,8 @@ Christopher Andrew Topalian
 
 [CATopalian PY PySide6 PyTorch Image Classifier](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_PySide6_PyTorch_Image_Classifier)
 
+[CATopalian PY PySide6 Weather Center](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_PySide6_Weather_Center)
+
 ---
 
 [CATopalian JavaScript](https://christopherandrewtopalian.github.io/CATopalian_JavaScript/CATopalian_JavaScript.html)  
