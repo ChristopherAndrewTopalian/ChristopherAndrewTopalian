@@ -35,6 +35,8 @@ Christopher Andrew Topalian
 
 ---
 
+## JAVASCRIPT
+
 [CATopalian JavaScript](https://christopherandrewtopalian.github.io/CATopalian_JavaScript/CATopalian_JavaScript.html)  
 
 [College of Scripting - Scroll Version](https://christopherandrewtopalian.github.io/CATopalian_JavaScript_College_of_Scripting/CATopalian_JavaScript_College_of_Scripting.html)
