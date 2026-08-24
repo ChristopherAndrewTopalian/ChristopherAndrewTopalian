@@ -322,6 +322,12 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian NWJS TensorFlow JS Image Classifier](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_TensorFlow_JS_Image_Classifier)
 
+[CATopalian NWJS OpenCV JS Optimized](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_OpenCV_JS_Optimized)
+
+[CATopalian NWJS Weather Center](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Weather_Center)
+
+[CATopalian NWJS Read CSV File](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Read_CSV_File)
+
 ---
 
 # Node.js
