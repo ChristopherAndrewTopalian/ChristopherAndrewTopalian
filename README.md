@@ -15,6 +15,10 @@ Christopher Andrew Topalian
 
 [CATopalian PY Pandas Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_Pandas_Tutorials)
 
+[CATopalian PY NumPy Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_NumPy_Tutorials)
+
+[CATopalian Python Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library)
+
 ---
 
 [CATopalian JavaScript](https://christopherandrewtopalian.github.io/CATopalian_JavaScript/CATopalian_JavaScript.html)  
