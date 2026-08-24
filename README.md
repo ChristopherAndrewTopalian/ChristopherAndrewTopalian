@@ -326,16 +326,6 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 ---
 
-## PY
-
-[CATopalian_Python_Library](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Library)
-
-[CATopalian_Python_Computer_Science](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_Computer_Science)
-
-[CATopalian Python PySide6 Counter](https://github.com/ChristopherAndrewTopalian/CATopalian_Python_PySide6_Counter)
-
----
-
 # Electronics
 
 [CATopalian Thin Wiretronics](https://github.com/ChristopherAndrewTopalian/CATopalian_Thin_Wiretronics)
