@@ -316,6 +316,12 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian_JavaScript_NW.js_Markdown_Navigator](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Markdown_Navigator)
 
+[CATopalian NWJS True Intelligence](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_True_Intelligence)
+
+[CATopalian NWJS TensorFlow Matrix Template](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_TensorFlow_Matrix_Template)
+
+[CATopalian NWJS TensorFlow JS Image Classifier](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_TensorFlow_JS_Image_Classifier)
+
 ---
 
 # Node.js
