@@ -308,7 +308,7 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian_JavaScript_NW.js_System_Info_and_File_System](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_System_Info_and_File_System)
 
-[CATopalian_JavaScript_NW.js_Journal](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Journal)
+[CATopalian_NWJS_Journal](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Journal)
 
 [CATopalian JavaScript NW.js Learning Center](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Learning_Center)
 
