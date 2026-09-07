@@ -310,7 +310,7 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian_NWJS_Journal](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Journal)
 
-[CATopalian NWJS Learning Center](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NWJS_Learning_Center)
+[CATopalian NWJS Learning Center](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Learning_Center)
 
 [CATopalian JavaScript NW.js Screenshot](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Screenshot)
 
