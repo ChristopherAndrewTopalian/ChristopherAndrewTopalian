@@ -314,7 +314,7 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 
 [CATopalian JavaScript NW.js Screenshot](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Screenshot)
 
-[CATopalian_JavaScript_NW.js_Markdown_Navigator](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_Markdown_Navigator)
+[CATopalian NWJS Markdown Navigator](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Markdown_Navigator)
 
 [CATopalian NWJS True Intelligence](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_True_Intelligence)
 
