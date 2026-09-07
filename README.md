@@ -303,8 +303,7 @@ https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Character_Stud
 [CATopalian_JavaScript_NW.js
 ](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js)
 
-[CATopalian_JavaScript_NW.js_ourFirstApp
-](https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js_ourFirstApp)
+[CATopalian NWJS Email Sender](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_Email_Sender)
 
 [CATopalian NWJS File and System Info](https://github.com/ChristopherAndrewTopalian/CATopalian_NWJS_File_and_System_Info)
 
