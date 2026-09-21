@@ -11,6 +11,12 @@ Christopher Andrew Topalian
 [LATEST REPOSITORIES](https://github.com/ChristopherAndrewTopalian?tab=repositories)  
 
 ## PYTHON
+[pyside6dom](https://github.com/ChristopherAndrewTopalian/pyside6dom)  
+
+[https://pypi.org/project/pyside6dom/](https://pypi.org/project/pyside6dom/) pip install pyside6dom  
+
+pip install --upgrade pyside6dom  
+
 [CATopalian PY sqlite3 Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_sqlite3_Tutorials)
 
 [CATopalian PY Pandas Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_Pandas_Tutorials)
