@@ -17,6 +17,10 @@ Christopher Andrew Topalian
 
 pip install --upgrade pyside6dom  
 
+[CATopalian_PY_PySide6DOM_Earthquake_Map](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_PySide6DOM_Earthquake_Map)  
+
+[CATopalian_PY_PySide6DOM_PyTorch_Image_Classifier](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_PySide6DOM_PyTorch_Image_Classifier)  
+
 [CATopalian PY sqlite3 Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_sqlite3_Tutorials)
 
 [CATopalian PY Pandas Tutorials](https://github.com/ChristopherAndrewTopalian/CATopalian_PY_Pandas_Tutorials)
